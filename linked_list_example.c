@@ -1,8 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 /*
+
 Author: Murat Küçük
 Student ID: 280201052
+
 */
 typedef struct linked_list_node_t {
     void* data;
